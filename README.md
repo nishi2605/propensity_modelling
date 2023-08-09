@@ -23,3 +23,41 @@ Please find attached below the screenshots of the Power BI dashboard, showcasing
 5.	Interact with the different visuals and tabs to explore various facets of customer churn analysis.
 6.	Utilize the insights gained to make informed decisions and develop strategies for reducing churn and retaining valuable customers.
 
+![image](img/1.png)
+
+Fig. 1. Python script to get the prediction model
+
+![image](img/2.png)
+
+Fig. 2. Applying machine learning models to generate predictor variable
+
+![image](img/3.png)
+
+Fig. 3. This is the prediction data Loaded using Python
+
+![image](img/4.png)
+
+Fig. 4. Using Power Query Editor to merge the variables of the original dataset with prediction values and creating new Prediction Probability variables.
+
+In order to get the Risk variable that we are trying to predict
+- If Probability of churn less than 40% then non risky,
+-	Between 40% to 60% : Low Risky,
+-	60% to 80%: Risky,
+-	Greater than 80%: High risky
+
+
+![image](img/5.png)
+
+![image](img/6.png)
+
+![image](img/7.png)
+
+![image](img/8.png)
+
+![image](img/9.png)
+
+![image](img/10.png)
+
+![image](img/11.png)
+
+![image](img/12.png)
